@@ -1,0 +1,1 @@
+ /Users/apple/gemini_api/.dart_tool/flutter_build/363d220183f011dec6d056e8a4b89e8e/native_assets.yaml: 
