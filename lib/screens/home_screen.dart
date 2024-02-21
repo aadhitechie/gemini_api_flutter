@@ -16,7 +16,7 @@ class HomeScreen extends StatelessWidget {
               'https://miro.medium.com/v2/resize:fit:4800/format:webp/1*-KkJmzvv3jNhh88TWxIBJg.png'),
 
           gradientShader(child: PrimaryButton(title: 'Smart chatbots', onPress: () {
-          Navigator.of(context).push(MaterialPageRoute(builder: (context) => const ChatBotScreen()));
+          Navigator.of(context).push(MaterialPageRoute(builder: (context) =>  ChatBotScreen()));
           })),
           const SizedBox(
             height: 15,
